@@ -11,7 +11,7 @@ Inspired by [cloudflare-proxy](https://github.com/barretlee/cloudflare-proxy)
 
 ## Deploy
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fhonye%2Fvercel-openai)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FHonye%2Fvercel-openai%2Ftree%2Fmain)
 
 Use `https://<your domain>/api` as proxy address
 
