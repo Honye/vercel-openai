@@ -4,9 +4,17 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "ChatGPT",
+    "GPT",
+    "OpenAI",
+    "Proxy"
+  ],
   "author": "Honye",
   "license": "MIT",
   "devDependencies": {
@@ -19,6 +27,9 @@
     "vercel": "^28.16.15"
   },
   "dependencies": {
-    "next": "^13.3.0"
+    "next": "^13.3.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "typescript": "^5.0.4"
   }
 }

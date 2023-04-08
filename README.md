@@ -24,5 +24,5 @@ Use `https://<your domain>/api` as proxy address
 ```bash
 # Node.js v18+
 pnpm install
-npx vercel dev
+pnpm dev
 ```
